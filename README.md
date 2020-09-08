@@ -1,6 +1,9 @@
 # Spotify Playlist Analayzer
 
-Tool to find some stuff about your playlists.
+Tools to find some stuff about your playlists.
+
+## Tools
+* `songs_not_in_liked.py` - Check which songs are in your playlists but not liked
 
 ## Installation
 ```pip install -r pip_requirements.txt```
